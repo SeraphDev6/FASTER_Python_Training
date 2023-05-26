@@ -1,11 +1,15 @@
-#pythonLogo{
+#pythonLogo {
   height: 35vh;
 }
-#fasterLogo{
+#fasterLogo {
   width: 45vw;
 }
-.flex-row{
+.row {
   display: flex;
   justify-content: space-evenly;
-  align-items: center ;
+  align-items: center;
+}
+
+code {
+  background: #666;
 }
